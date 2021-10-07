@@ -386,7 +386,7 @@ class MineSweeper:
         """ Return mines places. """
 
         indexes = list(range(1, MineSweeper.COLUMNS * MineSweeper.ROW + 1))
-        print(f"Исключаем кнопку {exclude_number}")
+        # print(f"Исключаем кнопку {exclude_number}")
         indexes.remove(exclude_number)
         shuffle(indexes)
         return indexes[:MineSweeper.MINES]
