@@ -8,4 +8,4 @@ Analysis of variance for dataset Video Game Sales with Ratings (https://www.kagg
 Game MineSweeper with tkinter module.
 
 ### MineSweeper_exe.zip
-ZIP with .exe file. You can run the game on your PC.
+ZIP with .exe file (in 'dist' folder). You can run the game on your PC.
