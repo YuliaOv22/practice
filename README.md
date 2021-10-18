@@ -6,3 +6,6 @@ Code from tutorials, tasks.
 
 + MineSweeper_exe.zip
 > ZIP with .exe file (in 'dist' folder). You can run the game on your PC.
+
++ Max_product_task.ipynb
+> Matrix. Find the maximum product for any sequence.
