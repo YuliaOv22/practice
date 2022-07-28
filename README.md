@@ -1,5 +1,11 @@
 # practice
-Code from tutorials, tasks.
+Code from tutorials, tasks, GB final_projects.
+
++ 4_final_project_instagram_parse
+> Course of Data Mining. Project folder [here](https://github.com/YuliaOv22/datamining29032021/tree/Lesson8).
+
++ 6_final_project_flask_docker
+> Course of Data Science in Business. Project folder [here](https://github.com/YuliaOv22/dsinbusiness16112021/tree/Course-project).
 
 + MineSweeper.py. 
 > Game MineSweeper with tkinter module. YouTube tutorial [here](https://www.youtube.com/watch?v=I4yl0VbXpA8&list=PLQAt0m1f9OHtfXxDph-MJvYCLaOvildGQ&index=1).
