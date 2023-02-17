@@ -7,10 +7,10 @@ Code from tutorials, tasks, GB final_projects.
 + 6_final_project_flask_docker
 > Course of Data Science in Business. Project folder [here](https://github.com/YuliaOv22/dsinbusiness16112021/tree/Course-project).
 
-+ Neural Networks in Keras
++ Neural Networks Keras
 > Folder homeworks [here](https://github.com/YuliaOv22/neuralnetworks19052022)
 
-+ Neural Networks in PyTorch
++ Neural Networks PyTorch
 > Folder homeworks [here](https://github.com/YuliaOv22/pytorch21062022)
 
 + MineSweeper.py. 
